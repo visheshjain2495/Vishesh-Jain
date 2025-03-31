@@ -1,0 +1,46 @@
+body{
+    background-color: #F1EFEC;
+}
+
+.lead{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h1, h2{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h3{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p, li{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+#navbar{
+    background-color: #030303;
+}
+
+.my-image{
+   border: 2px solid #030303;
+   border-radius: 3%;
+}
+
+#GCCF-link{
+    text-decoration: none;
+}
+
+#GCCF-link:hover{
+    text-decoration: underline;
+}
